@@ -36,3 +36,6 @@ div{
     width: 300px;
     text-align: center;
 }
+body{
+    background-image: url('ghibli.jpg');
+}
