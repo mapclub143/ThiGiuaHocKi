@@ -1,0 +1,20 @@
+p{
+    column-count: 3;
+    column-gap: 90px;
+    column-rule-style:solid;
+    column-rule-color: red;
+    column-rule-width: 5px;
+}
+body{
+    background-image: url(goku.jpg);
+}
+a.page1 h1{
+    border: 1px solid green;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    background-color: green;
+}
+a.page1:hover{
+    color:wheat;
+}

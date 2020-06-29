@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    
+}
+h1{
+    text-align: center;
+}
+p{
+    margin: 50px 50px 50px;
+}
+section{
+    background-image:url('imc.jpg') ;
+}
+}
+a.page1 h1{
+    border: 1px solid green;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    background-color: green;
+}z
+a.page1:hover{
+    color:wheat;
+}
